@@ -42,7 +42,7 @@
         <!-- Thêm các module con ở đây sau khi tạo -->
         <!-- <module>user-service</module> -->
         <!-- <module>station-service</module> -->
-        <!-- <module>battery-service</module> -->
+         <module>battery-service</module>
         <!-- <module>api-gateway</module> -->
     </modules>
 
